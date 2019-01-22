@@ -1,0 +1,2 @@
+# RICE
+rice_manage
